@@ -10,8 +10,8 @@ To gain access to the server join us on discord and ask to be whitelisted. Pleas
 ### Server Modpack
 This server has the `All the Mods 6` modpack installed. Please use install the modpack before attempting to join or connect to the server. See [Installing modpacks](#installing-a-minecraft-modpack)
 
-**Line to Modpack:** [link](https://www.curseforge.com/minecraft/modpacks/all-the-mods-6)
-**Current Modpack Version:** `XXX`
+**Link to Modpack:** [link](https://www.curseforge.com/minecraft/modpacks/all-the-mods-6)  
+**Current Modpack Version:** `1.3.9b`
 
 ## Installing a Minecraft Modpack
 
