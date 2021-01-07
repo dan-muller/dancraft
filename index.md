@@ -8,7 +8,7 @@ Join us on discord: https://discord.gg/y2x9Fxqv5X
 To gain access to the server join us on discord and ask to be whitelisted. Please provide your minecraft username!
 
 ### Server Modpack
-This server has the `All the Mods 6` modpack installed. Please use install the modpack before attempting to join or connect to the server. See [Installing modpacks](#Installing)
+This server has the `All the Mods 6` modpack installed. Please use install the modpack before attempting to join or connect to the server. See [Installing modpacks](#installing-a-minecraft-modpack)
 
 **Current Modpack Version:** `XXX`
 
