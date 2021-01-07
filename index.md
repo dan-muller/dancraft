@@ -7,7 +7,7 @@
 ### Joining 
 To gain access to the server [join us on Discord](https://discord.gg/y2x9Fxqv5X) and ask to be whitelisted. Please provide your minecraft username!  
 
-_The server will not admit anyone who has not been added to the whitelist!_
+The server will not admit anyone who has not been added to the whitelist!
 
 ### Server Modpack
 This server has the `All the Mods 6` modpack installed. Please use install the modpack before attempting to join or connect to the server. See [Installing modpacks](#installing-a-minecraft-modpack)
